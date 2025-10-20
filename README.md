@@ -1,2 +1,3 @@
-# Coursera-Project-1
-Intro to  Embedded Systems Assessment
+# Statistics Solver
+This simple project calculates the mean, median, minimum, and maximum of an array.
+>>>>>>> master
