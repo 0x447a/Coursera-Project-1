@@ -9,13 +9,13 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @file S T A T S . C
+ * @brief Calculates array statistics
  *
- * <Add Extended Description Here>
+ * This file calculates the mean, median, minimum, and maximum of the array
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author Joshua Felix
+ * @date 10/20/2025
  *
  */
 
